@@ -1,0 +1,11 @@
+__pycache__/
+**/__pycache__/
+.pytest_cache/
+*.pyc
+.env
+data/uploads/
+outputs/
+*.pdf
+INSTRUCTIONS.md
+instruction.md
+instructions.md
